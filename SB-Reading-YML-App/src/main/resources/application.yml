@@ -1,0 +1,7 @@
+demo:
+  properties:
+    greetMsg: Hey, Good Morning
+    testMsg: This is test Msg
+    welcomeMsg: Welcome to yml app
+server:
+  port: 1010
